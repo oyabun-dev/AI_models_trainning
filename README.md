@@ -1,6 +1,6 @@
 # 🚁 VisDrone Models Benchmark
 
-Bienvenue dans ce dépôt dédié à l'évaluation et à la comparaison de différents modèles d'intelligence artificielle sur le jeu de données **VisDrone**.
+Bienvenue dans ce repo dédié à l'évaluation et à la comparaison de différents modèles d'intelligence artificielle sur le jeu de données **VisDrone**.
 
 ## 🎯 Objectif Principal
 L'objectif principal de ce projet est de réaliser un **benchmark** (une évaluation comparative) entre plusieurs architectures de pointe pour la détection et la reconnaissance d'objets depuis des vues aériennes (drones). 
